@@ -11,14 +11,18 @@
 
 ## Description
 
-_This webpage provides describes how to cook my fathers favorite cookie recipe.
-Instructions and baking ingredients are provided. More recipes by me are linked at the bottom!_
+_This webpage provides describes how to cook someones favorite cookie recipe.
+Instructions and baking ingredients are provided, as well as a picture of the finished product. More recipes are linked at the bottom!_
 
 ## Setup/Installation Requirements
 
+### Local Machine
 * _Clone this repository to your machine_
 * _Navigate to the top level directory_
 * _Open index.html in you browser_
+
+### Online
+* _View this webpage on [github pages](https://mikkrieg.github.io/cookies/)!_
 
 ## Known Bugs
 
